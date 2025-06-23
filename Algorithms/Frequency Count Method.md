@@ -84,3 +84,7 @@ O(n)
 # Analysis of if and while loop
 
 #🔗 [Abdul Bari link to while and if analysis](https://www.youtube.com/watch?v=p1EnSvS3urU&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=8)
+$\sqrt{n}$
+
+
+
