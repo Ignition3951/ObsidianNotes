@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📗",
+      "🌄",
       "LiAArrowDown",
       "LiAlarmCheck"
     ],
@@ -30,5 +32,7 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "AtomicHabits": "🌄",
+  "DesignPatterns": "📗"
 }

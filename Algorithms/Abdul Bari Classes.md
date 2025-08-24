@@ -1,0 +1,33 @@
+# 🚀 Topics Covered
+```
+- Recurrence Relation
+- Calculating time complexity
+	- Tree Method
+	- Dividing Function
+- Binary Search Iterative
+- Binary Search Recursive
+- HEAP
+	- Create Heap (Min/Max Heap)
+	- Heap Sort
+	- Heapify
+	- Priority Queue
+- MERGE SORT
+	- 2 way merge sort
+	- pros and cons
+- QUICK SORT
+	- Analysis 
+	- Best and Worst case
+	- Suggestions
+- Strassen's Multiplication
+- GREEDY ALGORITHM
+	- Knapsack Problem
+	- Job Sequencing with deadlines Problem
+	- Optimal merge pattern
+	- Huffman Coding
+	- Prims's and Kruskal's Algorithm
+	- Djikstra's Algorithm
+- Dynamic Programming
+	- Memoization
+	- Tabular method
+	- Multistage graph
+```

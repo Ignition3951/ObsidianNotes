@@ -95,4 +95,29 @@ location /spa/ {
 location @backend {
     proxy_pass http://127.0.0.1:5000;
 }
+
+## 🧠 Command Breakdown
 ```
+
+**nginx.exe -p . -c conf/nginx.conf**
+
+- **`nginx.exe`**: This is the Nginx executable file—basically, the program you're running.
+- **`-p .`**: Sets the **prefix path**. The dot (`.`) means “current directory.”
+
+- This tells Nginx to treat your current folder as the root folder for paths in the configuration file.
+- For example, if your conf file references `logs/`, it resolves as `./logs/`.
+
+- **`-c conf/nginx.conf`**: Specifies the **custom configuration file** to use.
+
+- Instead of the default `conf/nginx.conf` inside the Nginx install folder, it points to one in a subdirectory relative to the current working directory.
+
+🔍 Example Use Case
+
+If you're running Nginx in a **local development setup** where:
+
+- Your config file is at `myproject/conf/nginx.conf`
+- You run the command from the `myproject/` folder
+
+Then this lets Nginx load the correct configuration while keeping everything nice and portable. Perfect for testing new configs without changing the system-wide setup.
+
+Need help customizing your `nginx.conf` for a dev proxy or reverse proxy setup? Happy to dive in with you, Utkarsh.
