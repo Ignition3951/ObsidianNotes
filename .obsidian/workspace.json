@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09336d4b0195ca36",
+        "id": "327d6b868e7fa341",
         "type": "tabs",
         "children": [
           {
-            "id": "d8aa97a072dfa56d",
+            "id": "8d1ec5621bb0e885",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PropertyPickerHLD.md"
+                "file": "DesignPatterns/DesignPatterns.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "PropertyPickerHLD"
-            }
-          },
-          {
-            "id": "4492109234f8343f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/PropertyPickerHLD.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "PropertyPickerHLD"
+              "icon": "lucide-file",
+              "title": "DesignPatterns"
             }
           }
         ]
@@ -167,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -192,14 +182,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1252c320821f59c7",
+  "active": "8d1ec5621bb0e885",
   "lastOpenFiles": [
-    "DesignPatterns/ObserverDesignPattern.md",
+    "DesignPatterns/ProxyPattern.md",
     "DesignPatterns/DesignPatterns.md",
+    "Explain consumer and predicate in java8.md",
+    "DesignPatterns/DecoratorPattern.md",
+    "DesignPatterns/DoubleCheckedLocking.md",
+    "DesignPatterns/DesignPatternChatGpt.app",
+    "Observer Design Pattern.md",
+    "Excalidraw/PropertyPickerHLD.md",
+    "Excalidraw/ViewDrawing.md",
+    "2025-06-16.md",
+    "NGINX CONFIGURATION/All About Proxy Pass In Nginx.md",
+    "DesignPatterns/ObserverDesignPattern.md",
     "PropertyPickerApp/🏗 HIGH LEVEL ARCHITECURE.md",
     "NGINX CONFIGURATION/Configuration steps.md",
-    "NGINX CONFIGURATION/All About Proxy Pass In Nginx.md",
-    "Excalidraw/PropertyPickerHLD.md",
     "ArchitectureImages/ICONS.md",
     "ArchitectureImages",
     "PropertyPickerApp/images/high-level architect.png",
@@ -214,24 +212,16 @@
     "DesignPatterns",
     "Untitled.md",
     "AtomicHabits/12th August,2025.md",
-    "2025-06-16.md",
     "AtomicHabits",
     "Algorithms/Abdul Bari Classes.md",
-    "Excalidraw/ViewDrawing.md",
     "ReactNative/View Component.md",
     "Excalidraw/Drawing 2025-06-27 12.40.44.excalidraw.md",
     "Excalidraw/Drawing 2025-06-27 12.41.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-23 11.58.08.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-27 12.42.31.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-27 12.41.21.excalidraw.md",
     "ReactNative",
     "Obsidian23June2025",
-    "Excalidraw/Drawing 2025-06-23 11.10.43.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "Algorithms",
-    "NGINX CONFIGURATION",
-    "SpringSecurity/Spring Security Basics.canvas",
-    "SpringSecurity/Spring Security Explained.md"
+    "SpringSecurity/Spring Security Basics.canvas"
   ]
 }
