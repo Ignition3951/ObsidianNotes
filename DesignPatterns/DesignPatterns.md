@@ -85,7 +85,7 @@ Shape shape = ShapeFactory.getShape("CIRCLE");
 shape.draw();
 ```
 
-### **3 . Abstract Factory Pattern**:
+### 3 . Abstract Factory Pattern:
 
 👉 Abstract Factory = **Factory of factories**
 
@@ -110,7 +110,7 @@ interface GUIFactory {
 
 When you want to switch entire families then you can use this pattern.
 
-### **4. Builder Pattern**
+### 4. Builder Pattern:
 
 **Intent**
 
@@ -152,7 +152,7 @@ class User {
 }
 ```
 
-### 5. **Prototype Pattern**:
+### 5. Prototype Pattern:
 
 **Intent**
 
@@ -176,7 +176,7 @@ class Prototype implements Cloneable {
 ## 2. Structural Design Pattern:
 👉 Concerned with **class/object composition**
 
-### **6. Adapter Pattern**:
+### 6. Adapter Pattern:
 👉 **Adapter acts as a bridge**
 
 **🔹 Scenario**
@@ -229,7 +229,7 @@ public class Main {
 }
 ```
 
-### **7. Decorator Pattern**:
+### 7. Decorator Pattern:
 
 **Intent**
 
@@ -242,12 +242,47 @@ Add new behavior **dynamically** without modifying existing code.
 - Adding toppings to pizza
 [[DecoratorPattern]]
 
-### **8. Proxy Pattern**:
+### 8. Proxy Pattern:
 [[ProxyPattern]]
 
-### **9.Facade Pattern:**
+### 9.Facade Pattern:
 
 The **Facade** pattern is a structural design pattern that provides a _simple, unified interface_ over a complex subsystem of many classes, so that clients can use it easily without dealing with internal complexity. It does not change behavior or interfaces of subsystem classes; it just organizes and simplifies access to them.
 
-### **10. Composite Pattern:**
+### 10. Composite Pattern:
 
+You want to:
+
+- Treat **individual objects** and **groups of objects** the **same way**
+    
+- Build **tree-like (hierarchical) structures**
+    
+- Avoid writing separate logic for single objects and collections
+
+❌ Without Composite:
+```java
+if (isFile) { ... }
+else if (isFolder) { ... }
+```
+
+
+> **Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions uniformly.**
+
+** Real Java Examples 🔥**
+
+ **✅ Java Collections**
+
+- List containing elements and lists
+    
+- Map of maps
+
+ **✅ Swing / JavaFX**
+
+- Containers and components
+
+ **✅ XML / JSON DOM**
+
+- Node → element → child nodes
+
+## 3. Behavioral Design Patterns:
+👉 Concerned with **object interaction and communication**

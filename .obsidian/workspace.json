@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "327d6b868e7fa341",
+        "id": "bc005b26061897c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1ec5621bb0e885",
+            "id": "6967b75bda36acea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesignPatterns/DesignPatterns.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DesignPatterns"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NGINX CONFIGURATION/Configuration steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Configuration steps"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,13 +156,11 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,46 +175,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d1ec5621bb0e885",
+  "active": "6967b75bda36acea",
   "lastOpenFiles": [
-    "DesignPatterns/ProxyPattern.md",
+    "Excalidraw/Leetcode/Problem17.md",
+    "Excalidraw/Leetcode",
+    "Excalidraw/Drawing 2026-02-26 23.13.53.excalidraw.md",
+    "Excalidraw/ViewDrawing.md",
+    "Excalidraw/Drawing 2026-02-02 14.47.33.excalidraw.md",
     "DesignPatterns/DesignPatterns.md",
-    "Explain consumer and predicate in java8.md",
     "DesignPatterns/DecoratorPattern.md",
+    "InterviewQuestions/Questions.md",
+    "Excalidraw/PropertyPickerHLD.md",
+    "ReactNative/View Component.md",
+    "Algorithms/StriverA2Z Algorithms.md",
+    "Algorithms/Frequency Count Method.md",
+    "Algorithms/Abdul Bari Classes.md",
+    "InterviewQuestions",
+    "DesignPatterns/ObserverDesignPattern.md",
+    "Observer Design Pattern.md",
+    "Excalidraw/Drawing 2026-01-27 00.12.15.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-19 12.05.56.excalidraw.md",
+    "2025-06-16.md",
+    "DesignPatterns/ProxyPattern.md",
+    "Explain consumer and predicate in java8.md",
     "DesignPatterns/DoubleCheckedLocking.md",
     "DesignPatterns/DesignPatternChatGpt.app",
-    "Observer Design Pattern.md",
-    "Excalidraw/PropertyPickerHLD.md",
-    "Excalidraw/ViewDrawing.md",
-    "2025-06-16.md",
     "NGINX CONFIGURATION/All About Proxy Pass In Nginx.md",
-    "DesignPatterns/ObserverDesignPattern.md",
-    "PropertyPickerApp/🏗 HIGH LEVEL ARCHITECURE.md",
+    "InterviewQuestions/PropertyPickerApp/🏗 HIGH LEVEL ARCHITECURE.md",
     "NGINX CONFIGURATION/Configuration steps.md",
     "ArchitectureImages/ICONS.md",
     "ArchitectureImages",
     "PropertyPickerApp/images/high-level architect.png",
     "PropertyPickerApp/images",
     "Excalidraw/Drawing 2025-10-25 12.41.51.excalidraw.md",
-    "PropertyPickerApp",
-    "Excalidraw/Drawing 2025-10-25 12.42.09.excalidraw.md",
-    "DesignPatterns/Design Patterns.md",
-    "DesignPatterns/Observer Design Pattern.md",
-    "Algorithms/Frequency Count Method.md",
-    "Algorithms/StriverA2Z Algorithms.md",
+    "InterviewQuestions/PropertyPickerApp",
     "DesignPatterns",
-    "Untitled.md",
-    "AtomicHabits/12th August,2025.md",
     "AtomicHabits",
-    "Algorithms/Abdul Bari Classes.md",
-    "ReactNative/View Component.md",
-    "Excalidraw/Drawing 2025-06-27 12.40.44.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-27 12.41.00.excalidraw.md",
     "ReactNative",
     "Obsidian23June2025",
-    "Excalidraw",
     "Untitled.canvas",
-    "Algorithms",
     "SpringSecurity/Spring Security Basics.canvas"
   ]
 }
